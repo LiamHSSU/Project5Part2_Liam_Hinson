@@ -18,9 +18,7 @@ table gets more full, the deletes come into play and free up the table, which ca
 less operations in theory for double hashing if it were to get lucky everytime and had at
 most 1 collision.
 
-![LRU Results
-Graph](https://github.com/LiamHSSU/Project5Part2_Liam_Hinson/blob/main/image1.pn
-g?raw=true)
+<img src="https://github.com/LiamHSSU/Project5Part2_Liam_Hinson/blob/main/image1.png?raw=true" width="600">
 
 
 After running the program with N being 2^15, we can observe that our initial hypothesis
