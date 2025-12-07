@@ -84,6 +84,7 @@ runs.
 
 
 Before and After Compactions:
+
 <img src="https://github.com/LiamHSSU/Project5Part2_Liam_Hinson/blob/main/image4.png?raw=true" width="600">
 
 
