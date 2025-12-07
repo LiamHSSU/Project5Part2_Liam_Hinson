@@ -31,7 +31,7 @@ elapsed at (N)2^13 and (N)2^15, this could just be that these values are arguabl
 stable integers and can be operated with at a greater capacity, therefore compaction
 might occur at a greater strength here.
 
-Timing and Costs:
+## Timing and Costs:
 Results for Single and Double Probing:
 
 
@@ -83,7 +83,7 @@ runs.
 
 
 
-Before and After Compactions:
+## Before and After Compactions:
 
 <img src="https://github.com/LiamHSSU/Project5Part2_Liam_Hinson/blob/main/image4.png?raw=true" width="600">
 
