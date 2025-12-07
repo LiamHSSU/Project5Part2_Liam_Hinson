@@ -1,0 +1,9 @@
+impl,profile,trace_path,N,seed,elapsed_ms,ops_total,average_probes,eff_load_factor_pct,load_factor_pct,tombstones_pct,full_scans,compactions,compaction_state
+double_hash,lru_profile,traceFiles/lru_profile_N_1024_S_23.trace,1024,23,23.0383,27380,7.51002,87,76,10,26,24,compaction_on
+single_hash,lru_profile,traceFiles/lru_profile_N_1024_S_23.trace,1024,23,20.2904,27380,16.9274,82,76,5,0,20,compaction_on
+double_hash,lru_profile,traceFiles/lru_profile_N_1024_S_23.trace,1024,23,25.369,27380,15360,12020,1331,1331,1024,166,141,188156,13044,12010,0,26,24,1025,12,76,87,10,7.510018,double,compaction_on
+single_hash,lru_profile,traceFiles/lru_profile_N_1024_S_23.trace,1024,23,23.094,27380,15360,12020,1331,1331,1024,233,74,424269,13044,12020,0,0,20,1024,17,76,82,5,16.927426,single,compaction_on
+double_hash,lru_profile,traceFiles/lru_profile_N_1024_S_23.trace,1024,23,25.2963,27380,15360,12020,1331,1331,1024,166,141,188156,13044,12010,0,26,24,1025,12,76,87,10,7.510018,double,compaction_on
+single_hash,lru_profile,traceFiles/lru_profile_N_1024_S_23.trace,1024,23,23.0936,27380,15360,12020,1331,1331,1024,233,74,424269,13044,12020,0,0,20,1024,17,76,82,5,16.927426,single,compaction_on
+double_hash,lru_profile,traceFiles/lru_profile_N_1024_S_23.trace,1024,23,25.7648,27380,15360,12020,1331,1331,1024,166,141,188156,13044,12010,0,26,24,1025,12,76,87,10,7.510018,double,compaction_on
+single_hash,lru_profile,traceFiles/lru_profile_N_1024_S_23.trace,1024,23,23.2463,27380,15360,12020,1331,1331,1024,233,74,424269,13044,12020,0,0,20,1024,17,76,82,5,16.927426,single,compaction_on
