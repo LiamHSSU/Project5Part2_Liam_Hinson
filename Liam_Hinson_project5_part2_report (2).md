@@ -35,13 +35,11 @@ Timing and Costs:
 Results for Single and Double Probing:
 
 
-![LRU Results
-Graph](https://github.com/LiamHSSU/Project5Part2_Liam_Hinson/blob/main/image2.pn
-g?raw=true)
+<img src="https://github.com/LiamHSSU/Project5Part2_Liam_Hinson/blob/main/image2.png?raw=true" width="600">
 
-![LRU Results
-Graph](https://github.com/LiamHSSU/Project5Part2_Liam_Hinson/blob/main/image3.pn
-g?raw=true)
+
+<img src="https://github.com/LiamHSSU/Project5Part2_Liam_Hinson/blob/main/image3.png?raw=true" width="600">
+
 
 
 After comparing the average number of probes of single probing (16.2458) and double
@@ -86,9 +84,7 @@ runs.
 
 
 Before and After Compactions:
-![LRU Results
-Graph](https://github.com/LiamHSSU/Project5Part2_Liam_Hinson/blob/main/image4.pn
-g?raw=true)
+<img src="https://github.com/LiamHSSU/Project5Part2_Liam_Hinson/blob/main/image4.png?raw=true" width="600">
 
 
 
